@@ -38,8 +38,3 @@ Accepted at the **EHB Conference, 2025**
 
 ## Notes
 This project demonstrates an end-to-end machine learning workflow, from data preprocessing to model evaluation, applied to a real-world healthcare problem.
-
-## Future Improvements
-- Apply advanced machine learning and deep learning models
-- Perform hyperparameter tuning for improved performance
-- Validate the approach using publicly available datasets
